@@ -11,21 +11,21 @@
     "Logo": "path",
     "SiteCategories": null,
     "IsActive": 1,
-    "Selected": false
+    "Selected": true
 }, {
     "Id": 3,
     "Label": "Cetritegi",
     "Logo": "path",
     "SiteCategories": null,
     "IsActive": 1,
-    "Selected": false
+    "Selected": true
 }, {
     "Id": 4,
     "Label": "Detritegi",
     "Logo": "path",
     "SiteCategories": null,
     "IsActive": 1,
-    "Selected": false
+    "Selected": true
 }, {
     "Id": 168,
     "Label": "Test Customer",
