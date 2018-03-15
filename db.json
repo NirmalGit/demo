@@ -11,7 +11,7 @@
     "Logo": "path",
     "SiteCategories": null,
     "IsActive": 1,
-    "Selected": true
+    "Selected": false
 }, {
     "Id": 3,
     "Label": "Cetritegi",
