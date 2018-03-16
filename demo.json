@@ -1,379 +1,442 @@
 [{
-	"Id": 1,
-	"Label": "Petritegi",
-	"Logo": "path",
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 1,
+    "Label": "Petritegi",
+    "Logo": "path",
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 2,
-	"Label": "Betritegi",
-	"Logo": "path",
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 2,
+    "Label": "Betritegi",
+    "Logo": "path",
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 3,
-	"Label": "Cetritegi",
-	"Logo": "path",
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 3,
+    "Label": "Cetritegi",
+    "Logo": "path",
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 4,
-	"Label": "Detritegi",
-	"Logo": "path",
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 4,
+    "Label": "Detritegi",
+    "Logo": "path",
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 168,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 168,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 173,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 173,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 174,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 174,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 175,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 175,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 176,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 176,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 177,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 177,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 178,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 178,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 179,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 179,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 180,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 180,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 181,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 181,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 182,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 182,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 183,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 183,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 184,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 184,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 186,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 186,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 187,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 187,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 188,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 188,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 189,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 189,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 190,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 190,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 197,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 197,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 198,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 198,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 199,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 199,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 200,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 200,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 201,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 201,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 202,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 202,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 203,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 203,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 204,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 204,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 205,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 205,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 206,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 206,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 207,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 207,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 208,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 208,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 215,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 215,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 216,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 216,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 217,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 217,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 218,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 218,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 219,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 219,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 220,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 220,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 221,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 221,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 222,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 222,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 223,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 223,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 224,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 224,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 225,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 225,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 226,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 226,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 227,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 227,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 228,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 228,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 229,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 229,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 230,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 230,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 231,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 231,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 232,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 232,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 233,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 233,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 234,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 234,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 235,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 235,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 236,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 236,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 237,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 237,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 238,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 238,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 239,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 239,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 240,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 240,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 241,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 241,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 256,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 256,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }, {
-	"Id": 260,
-	"Label": "Test Customer",
-	"Logo": null,
-	"SiteCategories": null,
-	"IsActive": 1
+    "Id": 260,
+    "Label": "Test Customer",
+    "Logo": null,
+    "SiteCategories": null,
+    "IsActive": 1,
+    "Selected": false
 }]
