@@ -1,0 +1,33 @@
+[{
+  "Status": 0,
+  "Customer": "customer 1",
+  "Site": "WWPS 1",
+  "Asset": "ethernet_adapter_1",
+  "Description": null,
+  "Occurrence": 1,
+  "Duration":"30 mins",
+  "Category":"edge_connectivity",
+  "Type":"in",
+  "Severity":"critical",
+  "Comment":"No ethernet frame on Ethernet adapter #1"
+},
+{
+  "Status": 0,
+  "Customer": "customer 2",
+  "Site": "WWPS 2",
+  "Asset": "DSP publisher stop running no new data to publish",
+  "Description": null,
+  "Occurrence": 1,
+  "Duration":"30 mins",
+  "Category":"edge_service",
+  "Type":"data_publication",
+  "Severity":"critical",
+  "Comment":""
+}
+]
+
+
+
+
+
+
