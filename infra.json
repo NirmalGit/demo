@@ -22,7 +22,7 @@
 	"Company": "Customer 1",
 	"Site": "An Douriou WWPS",
 	"Criticality": "Warning",
-	"Description": "No Low flow –"
+	"Description": "No Low flow –",
 	"Asset": "Pump 1 & 2",
 	"Occurrence": "Dec 25, 2017 16:12:35 PM",
 	"Duration": "5 min"
@@ -31,7 +31,7 @@
 	"Company": "Customer 1",
 	"Site": "An Douriou WWPS",
 	"Criticality": "Warning",
-	"Description" "High Flow",
+	"Description": "High Flow",
 	"Asset": "Pump 1",
 	"Occurrence": "June 24, 2017 16:12:35 PM",
 	"Duration": "2 min"
@@ -58,7 +58,7 @@
 	"Company": "Customer 1",
 	"Site": "An Douriou WWPS",
 	"Criticality": "Warning",
-	"Description" "Low outlet pressure",
+	"Description": "Low outlet pressure",
 	"Asset": "Pump 2",
 	"Occurrence": "July 25, 2017 10:12:35 AM",
 	"Duration": "4 min"
@@ -67,18 +67,18 @@
 	"Company": "Customer 1",
 	"Site": "An Douriou WWPS",
 	"Criticality": "Warning",
-	"Description" "High Inlet pressure",
+	"Description": "High Inlet pressure",
 	"Asset": "Pump 1",
-	"Occurrence": "July 25, 2017 16:12:35 PM"
+	"Occurrence": "July 25, 2017 16:12:35 PM",
 	"Duration": "8 min"
 },
 {
 	"Company": "Customer 1",
 	"Site": "An Douriou WWPS",
 	"Criticality": "Warning",
-	"Description" "Low Inlet pressure",
+	"Description": "Low Inlet pressure",
 	"Asset":"Pump 3",
-	"Occurrence": "July 25, 2017 9:12:35 AM"
+	"Occurrence": "July 25, 2017 9:12:35 AM",
 	"Duration": "6 min"
 },
 {
@@ -103,7 +103,7 @@
 	"Company": "Customer 1",
 	"Site": "An Douriou WWPS",
 	"Criticality": "High*",
-	"Description" "Drive Fault",
+	"Description": "Drive Fault",
 	"Asset": "Drive 1",
 	"Occurrence": "Dec 13, 2017 8:12:35 AM",
 	"Duration": "10 min"
@@ -154,3 +154,6 @@
 	"Duration": "2 min"
 }
 ]
+
+
+
