@@ -1,0 +1,156 @@
+[{
+	"Company": "Customer 1",
+	"Site": "An Douriou WWPS",
+	"Criticality": "Warning",
+	"Description": "Low Net Positive Suction Head – cavitation risk",	
+	"Asset": "Pump 1",	
+	"Occurrence": "Dec 13, 2017 8:12:35 AM",
+	"Duration": "10 min"
+},
+{
+	"Company": "Customer 1",
+	"Site": "An Douriou WWPS",
+	"Criticality": "High",
+	"Description": "Dry running",
+	"Asset": "Pump 2",
+	"Occurrence": "Dec 14, 2017 14:12:35 PM",
+	"Duration": "5 min"
+
+
+},
+{
+	"Company": "Customer 1",
+	"Site": "An Douriou WWPS",
+	"Criticality": "Warning",
+	"Description": "No Low flow –"
+	"Asset": "Pump 1 & 2",
+	"Occurrence": "Dec 25, 2017 16:12:35 PM",
+	"Duration": "5 min"
+},
+{
+	"Company": "Customer 1",
+	"Site": "An Douriou WWPS",
+	"Criticality": "Warning",
+	"Description" "High Flow",
+	"Asset": "Pump 1",
+	"Occurrence": "June 24, 2017 16:12:35 PM",
+	"Duration": "2 min"
+},
+{
+	"Company": "Customer 1",
+	"Site": "An Douriou WWPS",
+	"Criticality": "High",
+	"Description": "Cavitation",
+	"Asset": "Pump 1 & 2",
+	"Occurrence": "June 25, 2017 16:12:35 PM",
+	"Duration": "10 min"
+},
+{
+	"Company": "Customer 1",
+	"Site": "An Douriou WWPS",
+	"Criticality": "Warning",
+	"Description": "High outlet pressure",
+	"Asset": "Pump 3",
+	"Occurrence": "June 25, 2017 18:12:35 PM",
+	"Duration": "10 min"
+},
+{
+	"Company": "Customer 1",
+	"Site": "An Douriou WWPS",
+	"Criticality": "Warning",
+	"Description" "Low outlet pressure",
+	"Asset": "Pump 2",
+	"Occurrence": "July 25, 2017 10:12:35 AM",
+	"Duration": "4 min"
+},
+{
+	"Company": "Customer 1",
+	"Site": "An Douriou WWPS",
+	"Criticality": "Warning",
+	"Description" "High Inlet pressure",
+	"Asset": "Pump 1",
+	"Occurrence": "July 25, 2017 16:12:35 PM"
+	"Duration": "8 min"
+},
+{
+	"Company": "Customer 1",
+	"Site": "An Douriou WWPS",
+	"Criticality": "Warning",
+	"Description" "Low Inlet pressure",
+	"Asset":"Pump 3",
+	"Occurrence": "July 25, 2017 9:12:35 AM"
+	"Duration": "6 min"
+},
+{
+	"Company": "Customer 1",
+	"Site": "An Douriou WWPS",
+	"Criticality": "Warning",
+	"Description": "Leakage",
+	"Asset": "Pipe 1",
+	"Occurrence": "Dec 13, 2017 8:12:35 AM",
+	"Duration": "10 min"
+},
+{
+	"Company": "Customer 1",
+	"Site": "An Douriou WWPS",
+	"Criticality": "High",
+	"Description": "Hydraulic loss increase (valve issue, change in Hydraulic system)",
+	"Asset": "Pipe 2",
+	"Occurrence": "Dec 14, 2017 14:12:35 PM",
+	"Duration": "5 min"
+},
+{
+	"Company": "Customer 1",
+	"Site": "An Douriou WWPS",
+	"Criticality": "High*",
+	"Description" "Drive Fault",
+	"Asset": "Drive 1",
+	"Occurrence": "Dec 13, 2017 8:12:35 AM",
+	"Duration": "10 min"
+},
+{
+	"Company": "Customer 1",
+	"Site": "An Douriou WWPS",
+	"Criticality": "High",
+	"Description": "Overload",
+	"Asset": "Mototr 1",
+	"Occurrence": "Dec 13, 2017 8:12:35 AM",
+	"Duration": "10 min"
+},
+{
+	"Company": "Customer 1",
+	"Site": "An Douriou WWPS",
+	"Criticality": "Warning",
+	"Description": "Number of starts exceeded",
+	"Asset": "Motor 2",
+	"Occurrence": "Dec 14, 2017 14:12:35 PM",
+	"Duration": "5 min"
+},
+{
+	"Company": "Customer 1",
+	"Site": "An Douriou WWPS",
+	"Criticality": "High",
+	"Description": "Empty",
+	"Asset": "Tank 1",
+	"Occurrence": "Dec 13, 2017 8:12:35 AM",
+	"Duration": "10 min"
+},
+{
+	"Company": "Customer 1",
+	"Site": "An Douriou WWPS",
+	"Criticality": "Warning*",
+	"Description": "Level too low",
+	"Asset": "Tank 2",
+	"Occurrence": "Dec 14, 2017 14:12:35 PM",
+	"Duration": "5 min"
+},
+{
+	"Company": "Customer 1",
+	"Site": "An Douriou WWPS",
+	"Criticality": "Warning*",
+	"Description": "Level too High",
+	"Asset": "Tank 1",
+	"Occurrence": "June 24, 2017 16:12:35 PM",
+	"Duration": "2 min"
+}
+]
