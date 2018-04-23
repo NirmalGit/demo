@@ -22,7 +22,7 @@
   "Category":"edge_service",
   "Type":"data_publication",
   "Severity":"critical",
-  "Comment":""
+  "Comment":"No ethernet frame on Ethernet adapter #1"
 }
 ]
 
