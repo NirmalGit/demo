@@ -8,7 +8,7 @@
   "Duration":"30 mins",
   "Category":"edge_connectivity",
   "Type":"in",
-  "Severity":"critical",
+  "Severity":"High",
   "Comment":"No ethernet frame on Ethernet adapter #1"
 },
 {
@@ -21,7 +21,7 @@
   "Duration":"30 mins",
   "Category":"edge_service",
   "Type":"data_publication",
-  "Severity":"critical",
+  "Severity":"Warning",
   "Comment":"No ethernet frame on Ethernet adapter #1"
 }
 ]
