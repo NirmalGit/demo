@@ -1,0 +1,295 @@
+{
+  "Result": [
+    {
+      "AssetTypeId": 1,
+      "AssetTypeName": "Pump",
+      "Assets": [
+        {
+          "AssetId": 1,
+          "AssetName": "Pump1"
+        },
+        {
+          "AssetId": 2,
+          "AssetName": "Pump2"
+        },
+        {
+          "AssetId": 3,
+          "AssetName": "Pump3"
+        }
+      ],
+      "Parameters": [
+        {
+          "ParameterId": 1,
+          "ParameterName": "Flow"
+        },
+        {
+          "ParameterId": 2,
+          "ParameterName": "InPressure"
+        },
+        {
+          "ParameterId": 3,
+          "ParameterName": "OutPressure"
+        },
+        {
+          "ParameterId": 4,
+          "ParameterName": "HMT"
+        },
+        {
+          "ParameterId": 5,
+          "ParameterName": "Efficiency"
+        },
+        {
+          "ParameterId": 6,
+          "ParameterName": "ECI"
+        },
+        {
+          "ParameterId": 7,
+          "ParameterName": "EPI"
+        },
+        {
+          "ParameterId": 8,
+          "ParameterName": "NPSHd"
+        },
+        {
+          "ParameterId": 29,
+          "ParameterName": "IsRunning"
+        },
+        {
+          "ParameterId": 33,
+          "ParameterName": "State"
+        }
+      ]
+    },
+    {
+      "AssetTypeId": 2,
+      "AssetTypeName": "Motor",
+      "Assets": [
+        {
+          "AssetId": 4,
+          "AssetName": "Motor1"
+        },
+        {
+          "AssetId": 5,
+          "AssetName": "Motor2"
+        },
+        {
+          "AssetId": 6,
+          "AssetName": "Motor3"
+        }
+      ],
+      "Parameters": [
+        {
+          "ParameterId": 9,
+          "ParameterName": "MechSpeed"
+        },
+        {
+          "ParameterId": 10,
+          "ParameterName": "ElectSpeed"
+        },
+        {
+          "ParameterId": 11,
+          "ParameterName": "MechPower"
+        },
+        {
+          "ParameterId": 12,
+          "ParameterName": "ElectPower"
+        },
+        {
+          "ParameterId": 13,
+          "ParameterName": "MechTorque"
+        },
+        {
+          "ParameterId": 14,
+          "ParameterName": "Current"
+        },
+        {
+          "ParameterId": 15,
+          "ParameterName": "Efficiency"
+        },
+        {
+          "ParameterId": 34,
+          "ParameterName": "State"
+        }
+      ]
+    },
+    {
+      "AssetTypeId": 3,
+      "AssetTypeName": "Drive",
+      "Assets": [
+        {
+          "AssetId": 10,
+          "AssetName": "Drive1"
+        },
+        {
+          "AssetId": 11,
+          "AssetName": "Drive2"
+        },
+        {
+          "AssetId": 12,
+          "AssetName": "Drive3"
+        }
+      ],
+      "Parameters": [
+        {
+          "ParameterId": 16,
+          "ParameterName": "InElectPower"
+        },
+        {
+          "ParameterId": 17,
+          "ParameterName": "Efficiency"
+        },
+        {
+          "ParameterId": 35,
+          "ParameterName": "State"
+        }
+      ]
+    },
+    {
+      "AssetTypeId": 4,
+      "AssetTypeName": "Starter",
+      "Assets": [
+        
+      ],
+      "Parameters": [
+        {
+          "ParameterId": 18,
+          "ParameterName": "InElectPower"
+        },
+        {
+          "ParameterId": 19,
+          "ParameterName": "Efficiency"
+        },
+        {
+          "ParameterId": 36,
+          "ParameterName": "State"
+        }
+      ]
+    },
+    {
+      "AssetTypeId": 5,
+      "AssetTypeName": "PowerMeter",
+      "Assets": [
+        {
+          "AssetId": 7,
+          "AssetName": "PowerMeter1"
+        }
+      ],
+      "Parameters": [
+        {
+          "ParameterId": 20,
+          "ParameterName": "ElectPower"
+        },
+        {
+          "ParameterId": 21,
+          "ParameterName": "ElectEnergy"
+        },
+        {
+          "ParameterId": 22,
+          "ParameterName": "Current"
+        },
+        {
+          "ParameterId": 23,
+          "ParameterName": "Voltage"
+        },
+        {
+          "ParameterId": 37,
+          "ParameterName": "State"
+        }
+      ]
+    },
+    {
+      "AssetTypeId": 6,
+      "AssetTypeName": "Tank",
+      "Assets": [
+        {
+          "AssetId": 13,
+          "AssetName": "Tank1"
+        },
+        {
+          "AssetId": 14,
+          "AssetName": "Tank2"
+        }
+      ],
+      "Parameters": [
+        {
+          "ParameterId": 24,
+          "ParameterName": "Level"
+        },
+        {
+          "ParameterId": 25,
+          "ParameterName": "InFlow"
+        },
+        {
+          "ParameterId": 26,
+          "ParameterName": "OutFlow"
+        },
+        {
+          "ParameterId": 38,
+          "ParameterName": "State"
+        }
+      ]
+    },
+    {
+      "AssetTypeId": 7,
+      "AssetTypeName": "PipingSystem",
+      "Assets": [
+        {
+          "AssetId": 9,
+          "AssetName": "PipingSystem1"
+        }
+      ],
+      "Parameters": [
+        {
+          "ParameterId": 27,
+          "ParameterName": "Pressure"
+        },
+        {
+          "ParameterId": 28,
+          "ParameterName": "Flow"
+        },
+        {
+          "ParameterId": 39,
+          "ParameterName": "State"
+        },
+        {
+          "ParameterId": 40,
+          "ParameterName": "ECI"
+        },
+        {
+          "ParameterId": 41,
+          "ParameterName": "EPI"
+        }
+      ]
+    },
+    {
+      "AssetTypeId": 8,
+      "AssetTypeName": "GlobalSystem",
+      "Assets": [
+        {
+          "AssetId": 8,
+          "AssetName": "GlobalSystem1"
+        }
+      ],
+      "Parameters": [
+        {
+          "ParameterId": 30,
+          "ParameterName": "State"
+        },
+        {
+          "ParameterId": 31,
+          "ParameterName": "Flow"
+        },
+        {
+          "ParameterId": 32,
+          "ParameterName": "ECI"
+        },
+        {
+          "ParameterId": 42,
+          "ParameterName": "EPI"
+        }
+      ]
+    }
+  ],
+  "ErrorMessage": null,
+  "TimeGenerated": "2018-11-28T17:08:38.5393003Z"
+}
